@@ -1,1 +1,1 @@
-# Human-Pose-Detection
+# Human-Pose-Estimation
